@@ -1,0 +1,54 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Cardo',serif;
+
+}
+
+.backimg{
+    width: 100%;
+    margin: 100vh;
+    background-image: url("dark.jpg");
+background-size: cover;
+display flex: ;
+align-items: center;
+justify-content: center;
+text-align: center;
+color: white;
+} 
+
+.profile{
+  width: 40px;
+  background-color: rgba(red, green, blue, alpha);
+  padding: 30px;
+  border-radius: 10%;
+
+}
+img{
+  height: 250px;
+  border-radius: 70%;
+margin-bottom: 20px;
+}
+
+.profile text{
+  margin-bottom: 20px;
+}
+
+.profile h2{
+  font-size: 2em;
+  font-weight: 500;
+  margin-bottom: 7px;
+
+}
+
+.profile h2{
+  font-size: 1.4em;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+
+
+i{
+  color: white;
+}
